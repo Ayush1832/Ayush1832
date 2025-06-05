@@ -17,12 +17,6 @@ I'm a passionate blockchain developer with a strong foundation in Solidity, Java
 - **Blockchain Tools:** Ethers.js, Hardhat, Chai, Mocha, IPFS
 - **UI/Styling:** Tailwind CSS, Bootstrap
 
-## 🏆 Projects
-
-- **[NFTLend](https://nft-lend.netlify.app/):** A decentralized lending platform allowing users to stake NFTs as collateral for loans.  
-- **[Staking DApp](https://stake-dapp-ayush.netlify.app/):** A secure decentralized staking platform with reward mechanisms.  
-- **[Fractional NFTs](https://github.com/Ayush1832/Fractional-NFTs):** Smart contract for fractionalizing NFTs into fungible ERC20 tokens.  
-- **[AI NFT Generator](https://ai-nft-gen.netlify.app/):** AI-generated NFTs using Stable Diffusion and IPFS for minting.  
 
 ## 📈 GitHub Stats
 
