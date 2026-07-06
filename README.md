@@ -63,8 +63,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush1832&show_icons=true&hide_border=true&theme=radical&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush1832&layout=compact&hide_border=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush1832&show_icons=true&hide_border=true&theme=radical&count_private=true&cache_seconds=86400" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush1832&layout=compact&hide_border=true&theme=radical&cache_seconds=86400" height="165" />
 </div>
 
 <div align="center">
@@ -72,8 +72,13 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayush1832&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayush1832&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8&cache_seconds=86400" width="100%" />
 </div>
+
+<!-- Note: the stats/trophy cards above use a shared public server that is sometimes
+     rate-limited and may briefly show a broken image icon. Refreshing the page or
+     waiting a few minutes usually fixes it. cache_seconds is added to reduce repeat
+     hits and lower the chance of this happening. -->
 
 <br/>
 
