@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ayush%20Nayak&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Blockchain%20Developer%20%7C%20DApps%20Builder%20%7C%20Web3%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ayush%20Nayak&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Blockchain%20Developer%20%7C%20DApps%20Builder%20%7C%20Web3&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F4227F&center=true&vCenter=true&width=600&lines=Building+on-chain%2C+one+block+at+a+time+%F0%9F%94%97;Solidity+%E2%80%A2+Rust+%E2%80%A2+Web3+%F0%9F%9A%80;Always+shipping%2C+always+learning" alt="Typing SVG" />
 
